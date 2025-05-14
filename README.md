@@ -1,5 +1,5 @@
 <a href="https://www.elektronikforschung.de/projekte/di-owas"> <img src="https://github.com/user-attachments/assets/5d91b7d8-4e35-4c52-97c2-b4eb6c623895"  width=45% height=45% /> </a>
-<a href="https://www.bmbf.de/DE/Home/home_node.html"> <img src="https://github.com/user-attachments/assets/db09c28f-0242-4853-894e-b617cbe353d1"  width=50% height=50% /> </a>
+<a href="https://www.bmbf.de/DE/Home/home_node.html"> <img src="https://github.com/user-attachments/assets/8a0b7e2b-ae0e-4068-b455-600f2bafa3d0"  width=45% height=45% /> </a>
 
 
 # OWAS
