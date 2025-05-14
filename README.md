@@ -4,12 +4,12 @@
 
 # OWAS
 Entwicklung und Integration eines komplett offenen Ökosystems für den Entwurf komplexer RISC-V-basierter SoCs mit Unterstützung für eingebettete FPGAs. <br>
-<a href="https://www.uni-heidelberg.de/de"> <img src="https://github.com/user-attachments/assets/098e3b87-71f7-4c5b-86d8-fb38cf753764"  width=25% height=25% /> </a>
-<a href="https://www.ims.fraunhofer.de/"> <img src="https://github.com/user-attachments/assets/d43df641-3b0f-45e2-b072-5e905e6ae807"  width=32% height=32% /> </a>
-<a href="https://www.ruhr-uni-bochum.de/de"> <img src="https://github.com/user-attachments/assets/6b82f4b8-4386-4f8b-a28f-0f3919ae4149"  width=27% height=27% /> </a>
-<a href="https://b-horizon.com/de/"> <img src="https://github.com/user-attachments/assets/5379fb21-0eb7-4d8a-8f75-72d5d0ec8eae"  width=33% height=33% /> </a>
-<a href="https://dc-vision.de/"> <img src="https://github.com/user-attachments/assets/b850bcf2-e5af-45e4-947d-9a0c5b95c388"  width=25% height=25% /> </a>
-<a href="https://lubis-eda.com/"> <img src="https://github.com/user-attachments/assets/b25bff68-15a8-4fdd-9cb3-a577b920c713"  width=30% height=30% /> </a>
+<a href="https://www.uni-heidelberg.de/de"> <img src="https://github.com/user-attachments/assets/098e3b87-71f7-4c5b-86d8-fb38cf753764"  width=25% height=25% hspace=15/> </a>
+<a href="https://www.ims.fraunhofer.de/"> <img src="https://github.com/user-attachments/assets/d43df641-3b0f-45e2-b072-5e905e6ae807"  width=32% height=32% hspace=20/> </a>
+<a href="https://www.ruhr-uni-bochum.de/de"> <img src="https://github.com/user-attachments/assets/6b82f4b8-4386-4f8b-a28f-0f3919ae4149"  width=27% height=27% hspace=20/> </a>
+<a href="https://b-horizon.com/de/"> <img src="https://github.com/user-attachments/assets/5379fb21-0eb7-4d8a-8f75-72d5d0ec8eae"  width=33% height=33% hspace=15/> </a>
+<a href="https://dc-vision.de/"> <img src="https://github.com/user-attachments/assets/b850bcf2-e5af-45e4-947d-9a0c5b95c388"  width=25% height=25% hspace=15/> </a>
+<a href="https://lubis-eda.com/"> <img src="https://github.com/user-attachments/assets/b25bff68-15a8-4fdd-9cb3-a577b920c713"  width=30% height=30% hspace=10/> </a>
 
 
 ## Langfristiger Project-Impact
